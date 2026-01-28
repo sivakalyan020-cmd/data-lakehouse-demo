@@ -1,0 +1,6 @@
+apiVersion: v2
+name: data-platform-demo
+description: A Helm chart skeleton for deploying the demo data platform
+type: application
+version: 0.1.0
+appVersio: "1.0"
