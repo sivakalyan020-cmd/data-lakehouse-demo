@@ -1,0 +1,6 @@
+replicaCount: 1
+
+image:
+  repository: my-data-platform
+  tag: latest
+  pullPolicy: IfNotPresent
